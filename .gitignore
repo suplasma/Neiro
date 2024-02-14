@@ -1,0 +1,16 @@
+*.user
+
+modules
+doc
+bin
+lib
+build
+
+Makefile
+moc_*
+ui_*
+cmake_install.cmake
+*.so
+
+dep.cmake
+cmake-deps
